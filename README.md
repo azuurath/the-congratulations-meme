@@ -10,4 +10,6 @@ ok bye have fun
 IMPORTANT: to run it you must go to terminal and type "npm run"
 
 ![image](https://user-images.githubusercontent.com/112914108/188725247-f822c955-514e-480a-854c-701acf4b8fd0.png)
+
+
 thats basically it
